@@ -303,6 +303,7 @@
 这部分在线工具主要用来处理一些和文档以及文稿相关的事情，经常用到的比如：在线的全套pdf处理和转换工具、各种各样多媒体文件间的相互转换工具、在线识别工具、在线压缩工具等等。
 
 - [pdf在线处理工具套装1](https://smallpdf.com/cn/pdf-tools)
+- [Practical Web Tools](https://practicalwebtools.com/) - 1,400+ 免费浏览器工具：PDF 编辑/转换、图片/音频格式转换、200+ 计算器，全部本地处理，无需上传
 - [pdf在线处理工具套装2](https://tools.pdf24.org/zh/)
 - [pdf转word在线工具](https://www.pdftoword.com/)
 - [在线多媒体转换器合集](https://cn.office-converter.com/)
